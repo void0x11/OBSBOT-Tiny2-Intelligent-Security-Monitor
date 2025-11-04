@@ -2,7 +2,7 @@
 
 An intelligent, event-driven surveillance system that automatically captures video and screenshots when humans are detected in real-time using **AI vision processing**.
 
-# Working Example
+## Working Example
 
 
 
